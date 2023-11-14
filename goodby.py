@@ -1,0 +1,1 @@
+print(¨goodby friends")
